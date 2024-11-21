@@ -1,0 +1,9 @@
+[submodule "gobyexample"]
+	path = gobyexample
+	url = https://github.com/mmcgrana/gobyexample.git
+[submodule "learngo"]
+	path = learngo
+	url = https://github.com/inancgumus/learngo.git
+[submodule "gin-examples"]
+	path = gin-examples
+	url = https://github.com/gin-gonic/examples.git
