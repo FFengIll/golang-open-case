@@ -7,3 +7,6 @@
 [submodule "gin-examples"]
 	path = gin-examples
 	url = https://github.com/gin-gonic/examples.git
+[submodule "kitex-examples"]
+	path = kitex-examples
+	url = https://github.com/cloudwego/kitex-examples.git
