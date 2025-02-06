@@ -10,3 +10,9 @@
 [submodule "kitex-examples"]
 	path = kitex-examples
 	url = https://github.com/cloudwego/kitex-examples.git
+[submodule "hertz-examples"]
+	path = hertz-examples
+	url = https://github.com/cloudwego/hertz-examples.git
+[submodule "golang-example"]
+	path = golang-example
+	url = https://github.com/golang/example
